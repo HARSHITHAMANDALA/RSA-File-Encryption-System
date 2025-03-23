@@ -17,5 +17,8 @@ With this system, you can:
 ✔ No External Dependencies – Runs on standard C libraries.
 
 🤝 Contributors
-Mandala Harshitha
-Aishani Basu
+  Mandala Harshitha
+  Aishani Basu
+
+
+
