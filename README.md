@@ -7,7 +7,7 @@ With this system, you can:
 - Decrypt files when you need to retrieve your original content.
 - Protect file access with a password to prevent unauthorized use.
 
-###  Features
+##  Features
 - **Secure File Encryption** – Encrypts every character using RSA for strong security.
 - **Decryption Support** – Easily recover original content with the right decryption key.
 - **Password Protection** – Restricts access to encryption and decryption operations.
